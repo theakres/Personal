@@ -16,7 +16,6 @@
    },
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -136,7 +135,6 @@
    },
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -184,7 +182,6 @@
    },
    "transport": {
     "type": "ws",
-    "path": "/?ed=2560---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -208,7 +205,6 @@
    },
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -232,7 +228,6 @@
    },
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -256,7 +251,6 @@
    },
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -374,7 +368,6 @@
    },
    "transport": {
     "type": "ws",
-    "path": "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512",
     "headers": {
      "Host": "sni.111000.dynv6.net"
     },
@@ -833,7 +826,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/t.me/v2Line",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -849,7 +841,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -865,7 +856,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -897,7 +887,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -913,7 +902,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -929,7 +917,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -945,7 +932,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -961,7 +947,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -977,7 +962,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -993,7 +977,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -1009,7 +992,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -1025,7 +1007,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -1041,7 +1022,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -1057,7 +1037,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -1073,7 +1052,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -1089,7 +1067,6 @@
    "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
    "transport": {
     "type": "ws",
-    "path": "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1",
     "headers": {
      "Host": "vless.hubp.de"
     },
@@ -1105,7 +1082,6 @@
    "uuid": "bfb7355f-da10-470c-99d2-16c5061c403a",
    "transport": {
     "type": "ws",
-    "path": "/FREE%20By%20Tharuwa%20%280767597317%29",
     "headers": {
      "Host": "m.zoom.us"
     },
