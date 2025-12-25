@@ -66,28 +66,7 @@
    },
    "packet_encoding": "xudp"
   },
-  {
-   "type": "vless",
-   "tag": "Server 1504",
-   "server": "62.60.237.26",
-   "server_port": 443,
-   "uuid": "c2e196d4-3453-4c6c-bb80-fe372801e1a0",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "st.ozone.ru",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ",
-     "short_id": "9d36b8589fa524fd"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
+
   {
    "type": "vless",
    "tag": "Server 1505",
@@ -110,28 +89,7 @@
    },
    "packet_encoding": "xudp"
   },
-  {
-   "type": "vless",
-   "tag": "Server 1506",
-   "server": "ch3.tunnely.ru",
-   "server_port": 443,
-   "uuid": "c42e4667-ca09-4769-b544-89a8da730daf",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "ch3.tunnely.ru",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM",
-     "short_id": "2e40144ddc07e8e1"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
+
   {
    "type": "vless",
    "tag": "Server 1507",
@@ -198,28 +156,7 @@
    },
    "packet_encoding": "xudp"
   },
-  {
-   "type": "vless",
-   "tag": "Server 1510",
-   "server": "nl5.tunnely.ru",
-   "server_port": 443,
-   "uuid": "c42e4667-ca09-4769-b544-89a8da730daf",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "nl5.tunnely.ru",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM",
-     "short_id": "2e40144ddc07e8e1"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
+
   {
    "type": "vless",
    "tag": "Server 1511",
@@ -946,50 +883,8 @@
    },
    "packet_encoding": "xudp"
   },
-  {
-   "type": "vless",
-   "tag": "Server 1544",
-   "server": "185.234.59.90",
-   "server_port": 443,
-   "uuid": "d44e93de-4a8c-464f-81f2-eb0d384b1ab2",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "stats.vk-portal.net",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-     "short_id": "175d"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
-  {
-   "type": "vless",
-   "tag": "Server 1545",
-   "server": "62.60.157.37",
-   "server_port": 443,
-   "uuid": "d48ba610-6ef1-475b-9d33-be2a0db96f87",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "st.ozone.ru",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "jVZNjr5dXzki9VxDHWg_zsiUjSrplC0mnZrG8tuP_2c",
-     "short_id": "149adb1c3cb9ed11"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
+
+
   {
    "type": "vless",
    "tag": "Server 1546",
@@ -2882,50 +2777,7 @@
    },
    "packet_encoding": "xudp"
   },
-  {
-   "type": "vless",
-   "tag": "Server 1632",
-   "server": "179.61.251.78",
-   "server_port": 443,
-   "uuid": "fabc8a38-76c5-48fe-ada7-a9e52dd16225",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "refersion.com",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "esHsu3-Fj0aZ0xuNBV6qW1zu1hLbas8YDn7AO0QGsBw",
-     "short_id": "0ff58d687a4c6c"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
-  {
-   "type": "vless",
-   "tag": "Server 1633",
-   "server": "ru01-blh01.tcp-reset-club.net",
-   "server_port": 443,
-   "uuid": "fba162df-6a82-4d57-b956-3a862944f50e",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "stats.vk-portal.net",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-     "short_id": "175d"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
+
   {
    "type": "vless",
    "tag": "Server 1634",
