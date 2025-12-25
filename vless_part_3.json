@@ -132,28 +132,7 @@
    },
    "packet_encoding": "xudp"
   },
-  {
-   "type": "vless",
-   "tag": "Server 1007",
-   "server": "cute-kittens.store",
-   "server_port": 8443,
-   "uuid": "1110a364-4c94-42b7-84d9-085a34eabee4",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "tradingview.com",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "mfBIs4jfBLzL_gqBO0QmbzwhSqamg2heEb_uNpGu3Rc",
-     "short_id": "ffb82d9a35846463"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
+
   {
    "type": "vless",
    "tag": "Server 1008",
@@ -1562,50 +1541,8 @@
    },
    "packet_encoding": "xudp"
   },
-  {
-   "type": "vless",
-   "tag": "Server 1072",
-   "server": "78.159.246.66",
-   "server_port": 443,
-   "uuid": "2c8adcaa-e428-4cea-9c88-e88166651ab3",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "eh.vk.com",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0",
-     "short_id": "d1579a8745398e34"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
-  {
-   "type": "vless",
-   "tag": "Server 1073",
-   "server": "89.169.137.193",
-   "server_port": 443,
-   "uuid": "2c8adcaa-e428-4cea-9c88-e88166651ab3",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "eh.vk.com",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0",
-     "short_id": "d1579a8745398e34"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
+
+
   {
    "type": "vless",
    "tag": "Server 1074",
@@ -5808,28 +5745,7 @@
    },
    "packet_encoding": "xudp"
   },
-  {
-   "type": "vless",
-   "tag": "Server 1265",
-   "server": "109.248.203.71",
-   "server_port": 443,
-   "uuid": "6142e134-346a-4ffe-bf5b-c3fb7e3c9dfb",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "www.google.com",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "PfxP7-Pvot9Y8z5boZwuG3Afyb_zdm0C2HCZezNMTiQ",
-     "short_id": "85225c27630d023f"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
+
   {
    "type": "vless",
    "tag": "Server 1266",
@@ -8712,28 +8628,7 @@
    },
    "packet_encoding": "xudp"
   },
-  {
-   "type": "vless",
-   "tag": "Server 1397",
-   "server": "ru-nl01-vlr01.tcp-reset-club.net",
-   "server_port": 443,
-   "uuid": "8e2cc81d-7ac4-4352-a7b5-bbfcfa81e49e",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "hls-svod.itunes.apple.com",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-     "short_id": "8453e5fd9af927"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
+
   {
    "type": "vless",
    "tag": "Server 1398",
@@ -9834,28 +9729,7 @@
    },
    "packet_encoding": "xudp"
   },
-  {
-   "type": "vless",
-   "tag": "Server 1448",
-   "server": "188.253.16.31",
-   "server_port": 443,
-   "uuid": "a8c099ce-04d8-43d2-8100-34e72f7beba4",
-   "flow": "xtls-rprx-vision",
-   "tls": {
-    "enabled": true,
-    "server_name": "yahoo.com",
-    "utls": {
-     "enabled": true,
-     "fingerprint": "chrome"
-    },
-    "reality": {
-     "enabled": true,
-     "public_key": "KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8",
-     "short_id": "e33013f4"
-    }
-   },
-   "packet_encoding": "xudp"
-  },
+
   {
    "type": "vless",
    "tag": "Server 1449",
