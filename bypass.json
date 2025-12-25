@@ -1,0 +1,361 @@
+{
+ "outbounds": [
+  {
+   "type": "vless",
+   "tag": "Server 514",
+   "server": "208.103.161.33",
+   "server_port": 2053,
+   "uuid": "1a25f8ad-cad2-4e93-b5bf-34e42bcac02a",
+   "tls": {
+    "enabled": true,
+    "server_name": "sni.111000.dynv6.net",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   },
+   "transport": {
+    "type": "ws",
+    "headers": {
+     "Host": "sni.111000.dynv6.net"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 903",
+   "server": "160.153.0.61",
+   "server_port": 2096,
+   "uuid": "12345678-1234-1234-1234-123456789123",
+   "tls": {
+    "enabled": true,
+    "server_name": "vless.hubp.de",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   },
+   "transport": {
+    "type": "ws",
+    "path": "/snippets",
+    "headers": {
+     "Host": "vless.hubp.de"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 905",
+   "server": "188.164.248.61",
+   "server_port": 2096,
+   "uuid": "12345678-1234-1234-1234-123456789123",
+   "tls": {
+    "enabled": true,
+    "server_name": "vless.hubp.de",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   },
+   "transport": {
+    "type": "ws",
+    "path": "/snippets",
+    "headers": {
+     "Host": "vless.hubp.de"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 907",
+   "server": "74.49.215.61",
+   "server_port": 2096,
+   "uuid": "12345678-1234-1234-1234-123456789123",
+   "tls": {
+    "enabled": true,
+    "server_name": "vless.hubp.de",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   },
+   "transport": {
+    "type": "ws",
+    "path": "/snippets",
+    "headers": {
+     "Host": "vless.hubp.de"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 2863",
+   "server": "77.37.33.169",
+   "server_port": 80,
+   "uuid": "29187857-4a1f-4d1e-88eb-0016771e0dbb",
+   "transport": {
+    "type": "ws",
+    "headers": {
+     "Host": "vless.hubp.de"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 1397",
+   "server": "ru-nl01-vlr01.tcp-reset-club.net",
+   "server_port": 443,
+   "uuid": "8e2cc81d-7ac4-4352-a7b5-bbfcfa81e49e",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "hls-svod.itunes.apple.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+     "short_id": "8453e5fd9af927"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 904",
+   "server": "167.68.42.61",
+   "server_port": 2096,
+   "uuid": "12345678-1234-1234-1234-123456789123",
+   "tls": {
+    "enabled": true,
+    "server_name": "vless.hubp.de",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   },
+   "transport": {
+    "type": "ws",
+    "path": "/snippets",
+    "headers": {
+     "Host": "vless.hubp.de"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 4249",
+   "server": "85.9.205.54",
+   "server_port": 4655,
+   "uuid": "2668fdee-331d-4770-8244-d2a4efbf6ef8",
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 902",
+   "server": "159.246.55.61",
+   "server_port": 2096,
+   "uuid": "12345678-1234-1234-1234-123456789123",
+   "tls": {
+    "enabled": true,
+    "server_name": "vless.hubp.de",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   },
+   "transport": {
+    "type": "ws",
+    "path": "/snippets",
+    "headers": {
+     "Host": "vless.hubp.de"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 906",
+   "server": "195.85.23.61",
+   "server_port": 2096,
+   "uuid": "12345678-1234-1234-1234-123456789123",
+   "tls": {
+    "enabled": true,
+    "server_name": "vless.hubp.de",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    }
+   },
+   "transport": {
+    "type": "ws",
+    "path": "/snippets",
+    "headers": {
+     "Host": "vless.hubp.de"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 1783",
+   "server": "de24.abvpn.ru",
+   "server_port": 443,
+   "uuid": "1a539db6-d162-42f4-9b56-687bd57bfbc2",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "eKglVNr1vCmVZxLeGS6_-sZWXEJLWckuzkpmox1-jQ8",
+     "short_id": "b05bc387"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 1448",
+   "server": "188.253.16.31",
+   "server_port": 443,
+   "uuid": "a8c099ce-04d8-43d2-8100-34e72f7beba4",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "yahoo.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "KX1PfrASrflF1Ra1TcjujnOAK-4sPiEVDSfAPS1DAl8",
+     "short_id": "e33013f4"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 1092",
+   "server": "185.130.114.253",
+   "server_port": 443,
+   "uuid": "309fa273-6579-4cb2-9143-7cad50401eba",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "www.cloudflare.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY",
+     "short_id": "7cad5040"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 1782",
+   "server": "84.200.81.229",
+   "server_port": 443,
+   "uuid": "1a539db6-d162-42f4-9b56-687bd57bfbc2",
+   "tls": {
+    "enabled": true,
+    "server_name": "ozon.ru",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "eKglVNr1vCmVZxLeGS6_-sZWXEJLWckuzkpmox1-jQ8",
+     "short_id": "b05bc387"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 1091",
+   "server": "185.130.114.219",
+   "server_port": 443,
+   "uuid": "309fa273-6579-4cb2-9143-7cad50401eba",
+   "flow": "xtls-rprx-vision",
+   "tls": {
+    "enabled": true,
+    "server_name": "www.cloudflare.com",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY",
+     "short_id": "7cad5040"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 2051",
+   "server": "89.23.113.137",
+   "server_port": 47944,
+   "uuid": "9f721f50-e015-5ea3-8bb0-22428307e9c0",
+   "tls": {
+    "enabled": true,
+    "server_name": "www.ietf.org",
+    "utls": {
+     "enabled": true,
+     "fingerprint": "chrome"
+    },
+    "reality": {
+     "enabled": true,
+     "public_key": "_7L2lOpu_wMQLTxy0VT0WIHe8yYfBFKKq8wWWLr-4Tw",
+     "short_id": "ffffffffff"
+    }
+   },
+   "packet_encoding": "xudp"
+  },
+  {
+   "type": "vless",
+   "tag": "Server 2918",
+   "server": "37.120.186.241",
+   "server_port": 80,
+   "uuid": "53fff6cc-b4ec-43e8-ade5-e0c42972fc33",
+   "transport": {
+    "type": "ws",
+    "path": "/news",
+    "headers": {
+     "Host": "cdn.ir"
+    },
+    "early_data_header_name": "Sec-WebSocket-Protocol"
+   },
+   "packet_encoding": "xudp"
+  }
+ ]
+}
