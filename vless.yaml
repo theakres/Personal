@@ -260,19 +260,6 @@ proxies:
     path: /
     headers:
       Host: servepross.ajorpare.ir
-- name: telegram ⚡️ dailyv2ry
-  type: vless
-  server: 151.101.3.8
-  port: 80
-  uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82
-  cipher: none
-  tls: false
-  udp: true
-  network: ws
-  ws-opts:
-    path: /---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN
-    headers:
-      Host: mitivpn.global.ssl.fastly.net
 - name: 🇮🇹@V2rayng_Fast عضو بشید`
   type: vless
   server: dorthy.ns.cloudflare.com
@@ -18087,7 +18074,6 @@ proxy-groups:
   - telegram 🌺 dailyv2ry
   - 👉🆔 @v2ray_configs_pool 📡 🇨🇭CH_2 🧭 5.6MB/s`
   - 👉🆔 @v2ray_configs_pool 📡 🇨🇭CH_2 🧭 4.7MB/s`
-  - telegram ⚡️ dailyv2ry
   - 🇮🇹@V2rayng_Fast عضو بشید`
   - DS 3 (@Outline_Vpn) free
   - DS 4 (@Outline_Vpn) free
@@ -19603,7 +19589,6 @@ proxy-groups:
   - telegram 🌺 dailyv2ry
   - 👉🆔 @v2ray_configs_pool 📡 🇨🇭CH_2 🧭 5.6MB/s`
   - 👉🆔 @v2ray_configs_pool 📡 🇨🇭CH_2 🧭 4.7MB/s`
-  - telegram ⚡️ dailyv2ry
   - 🇮🇹@V2rayng_Fast عضو بشید`
   - DS 3 (@Outline_Vpn) free
   - DS 4 (@Outline_Vpn) free
