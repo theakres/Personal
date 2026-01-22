@@ -26,7 +26,5 @@ vless://8a07740f-b932-4372-a3a2-ed91f184cd33@25.129.197.138:2053?ed=2560&eh=Sec-
 vless://26d1fd06-f342-4098-9f8e-08fbb197b5cd@5.23.54.133:443?alpn=h2,http/1.1&encryption=&flow=xtls-rprx-vision&fp=random&pbk=E8r9n9A0VyyYV6VE_94xo5UsZMvssa5Ub8kYudvCPCk&security=reality&sid=ab1da24b10d4c1&sni=api-maps.yandex.ru&type=tcp#🇷🇺 Россия 26
 vless://26d1fd06-f342-4098-9f8e-08fbb197b5cd@51.250.106.79:443?alpn=h2,http/1.1&encryption=&flow=xtls-rprx-vision&fp=random&pbk=E8r9n9A0VyyYV6VE_94xo5UsZMvssa5Ub8kYudvCPCk&security=reality&sid=ab1da24b10d4c1&sni=api-maps.yandex.ru&type=tcp#🇷🇺 Россия 27
 vless://26d1fd06-f342-4098-9f8e-08fbb197b5cd@158.160.196.41:443?alpn=h2,http/1.1&encryption=&flow=xtls-rprx-vision&fp=random&pbk=E8r9n9A0VyyYV6VE_94xo5UsZMvssa5Ub8kYudvCPCk&security=reality&sid=ab1da24b10d4c1&sni=api-maps.yandex.ru&type=tcp#🇷🇺 Россия 28
-vless://e741b960-9901-4d7d-880d-1f2be2680e13@rub-sftp.invisibleshrimp.su:443?encryption=&flow=&fp=random&pbk=eaLmViV5xTX0QHUl8k7yxvgCTq7gpPzhOVBu1FTqgBg&security=reality&sid=c1d8f07b&sni=ads.x5.ru&type=xhttp#🇷🇺 Россия 29
-vless://e741b960-9901-4d7d-880d-1f2be2680e13@rub-sftp.invisibleshrimp.su:9443?encryption=&flow=&fp=random&pbk=PQv4Uvqe3ilBk9NDD2NCnfLIeYcNh-MZtig1TsBANws&security=reality&sid=8e3c9baf&sni=ads.x5.ru&type=grpc#🇷🇺 Россия 30
 ss://chacha20-ietf-poly1305:wv7-hEVBJaeD7noGRCLeD5fSrYGgFm0f@91.135.156.243:9999#🇷🇺 Россия 31
 ss://chacha20-ietf-poly1305:1LeP68pQl68cigPMEgejEW@185.246.220.50:29792#🇷🇺 Россия 32
