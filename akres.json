@@ -1,0 +1,20 @@
+{
+  "outbounds": [
+    {
+      "type": "vless",
+      "tag": "больше нету § 0",
+      "server": "127.0.0.1",
+      "server_port": 1080,
+      "uuid": "",
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "бесплатного впна § 1",
+      "server": "127.0.0.1",
+      "server_port": 1080,
+      "uuid": "",
+      "packet_encoding": "xudp"
+    }
+  ]
+}
